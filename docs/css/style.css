@@ -1,14 +1,14 @@
 /* Palette méditerranéenne */
 :root {
-  --blanc: #fffdf9;
-  --bleu: #3e8e9d;
-  --sable: #f2e9dc;
-  --terracotta: #e07a5f;
-  --gris: #4a4a4a;
-  --accent: #81b29a;
+  --ivoire: #F7F2EC;
+  --bois-clair: #D6BA92;
+  --anthracite: #3A3A3A;
+  --vert-sauge: #A3B18A;
+  --accent: #E6CFC1;  /* touche douce rosée */
   --font-primary: 'Georgia', serif;
   --font-secondary: 'Arial', sans-serif;
 }
+
 
 * {
   margin: 0;
